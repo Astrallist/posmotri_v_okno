@@ -1,12 +1,10 @@
 .error {
-  position: relative;
+  position: absolute;
   inset: 0;
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: #545050;
-  height: 100%;
-  width: 100%;
 }
 
 .error__title {
